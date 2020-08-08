@@ -1,8 +1,8 @@
 ![image](https://github.com/ZainCheung/ZainCheung/blob/master/dino.gif)
 
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=ZainCheung&show_icons=true&theme=radical"/></a>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PHP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainCheung&hide=HTML,CSS&theme=radical"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's github stats" src="https://zaincheung-github-readme-stats.vercel.app/api?username=ZainCheung&show_icons=true&theme=radical"/></a>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PHP" src="https://zaincheung-github-readme-stats.vercel.app/api/top-langs/?username=ZainCheung&hide=HTML,CSS&theme=radical"/></a>
 </p>
 
 <p align="center"> 
