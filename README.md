@@ -5,10 +5,12 @@
      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PHP" src="https://zaincheung-github-readme-stats.vercel.app/api/top-langs/?username=ZainCheung&hide=HTML,CSS&theme=radical"/></a>
 </p>
 
-<p align="center"> 
+![](https://komarev.com/ghpvc/?username=ZainCheung&base=100000)
+
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZainCheung/count.svg" />
-</p>
+</p> -->
 
 <!--
 ### Visitors：<img src="https://github-visitor-badge.glitch.me/badge?page_id=ZainCheung"/>
